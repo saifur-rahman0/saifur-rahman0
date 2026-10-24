@@ -56,8 +56,6 @@
 #### 💻 Core Languages, Databases & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,mongodb,git,linux,postman,arduino,figma,ps&theme=dark" alt="Languages and Tools" />
-  <br/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
 </p>
 
 ---
