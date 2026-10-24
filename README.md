@@ -1,18 +1,87 @@
-<h1 align="center">Hi 👋, I'm Saifur Rahman</h1>
-<h3 align="center">I am a Learner, Problem Solver and Passionate AI Engineering</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifur-rahman0&label=Profile%20views&color=0e75b6&style=flat-square" alt="saifur-rahman0" /> </p>
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Saifur+Rahman;AI+%26+Machine+Learning+Engineer;Full-Stack+%26+Mobile+App+Developer;Competitive+Programmer+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
 
-- 🌱 I’m currently learning **Machine Learning**
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=saifur-rahman0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-- 📫 How to reach me **saifur.rahman.khokon1@gmail.com**
+  <!-- Social & Competitive Programming Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/saifur-rahman-207617304" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://kaggle.com/saifurrahman19" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://codeforces.com/profile/saifur_r" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="mailto:saifur.rahman.khokon1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+### 🚀 About Me
+- 🧠 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
+- 💻 Experienced in building full-stack web and mobile apps using **Django, Flask, and Flutter**.
+- 🏆 Active problem solver on **Codeforces** & data science competitor on **Kaggle**.
+- 📫 Reach me at: **[saifur.rahman.khokon1@gmail.com](mailto:saifur.rahman.khokon1@gmail.com)**
+
+---
+
+### 🛠️ Languages & Tech Stack
+
+#### 🤖 AI, Machine Learning & Data Science
 <p align="left">
-<a href="https://linkedin.com/in/saifur-rahman-207617304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifur-rahman-207617304" height="30" width="40" /></a>
-<a href="https://kaggle.com/saifurrahman19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saifurrahman19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saifur_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saifur_r" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI Stack" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### 🌐 Web & Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,flutter,dart,androidstudio,kotlin,html,css,bootstrap&theme=dark" alt="Web and Mobile Stack" />
+</p>
+
+#### 💻 Core Languages, Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,mongodb,git,linux,postman,arduino,figma,ps&theme=dark" alt="Languages and Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Domain | Tech Stack |
+| :--- | :--- | :--- |
+| **[Bangla Handwritten Alphabet Recognition](https://github.com/saifur-rahman0/Bangla_Handwritten_Alphabet_Recognition)** | Deep Learning / OCR | `Python` `Jupyter` `CNN` |
+| **[Real-Time Face Recognition Using CNN](https://github.com/saifur-rahman0/Real-Time-Face-Recognition-Using-CNN)** | Computer Vision | `Python` `OpenCV` `Deep Learning` |
+| **[House Value Prediction](https://github.com/saifur-rahman0/House-Value-Prediction-using-Machine-Learning)** | Machine Learning | `Python` `Scikit-Learn` `Pandas` |
+| **[Handwritten Digit Recognition (MNIST)](https://github.com/saifur-rahman0/Handwritten-Digit-Recognition-MNIST)** | Neural Networks | `Python` `TensorFlow` `Keras` |
+| **[Note-Taking Application](https://github.com/saifur-rahman0/Note-Taking-Application-Frontend)** | Full-Stack Web | `JavaScript` `Frontend` `Backend` |
+| **[University Management System](https://github.com/saifur-rahman0/University-Management-System)** | Software Engineering | `Java` `OOP` `Database` |
+
+---
+
+### 📊 GitHub Overview & Activity
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=saifur-rahman0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Saifur's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifur-rahman0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifur-rahman0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
