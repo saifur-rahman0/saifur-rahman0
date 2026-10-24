@@ -37,8 +37,6 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing a B.Sc. in **Computer Science & Engineering (CSE)** at **Shyamoli Textile Engineering College** (Member of **Crypton2** & **Computer Programming Club**).
-- 💼 Working professionally at **Betopia Group** and building custom software solutions as a freelance developer.
 - 🧠 Specializing in **Deep Learning, Computer Vision (CNNs, OCR), AI Assistants, and Predictive Modeling**.
 - 💻 Experienced in full-stack and cross-platform development using **Python (Django, Flask), JavaScript, Flutter, and MongoDB/MySQL**.
 - 🌐 Explore my full resume, skills, and live demos on my **[Portfolio Website](https://saifur-rahman0.github.io/Saifur-Protfolio/)**.
