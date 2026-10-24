@@ -1,11 +1,12 @@
 <div align="center">
 
   <!-- Static Name Header (Always Visible) -->
-  <h1>Hi 👋, I'm Saifur Rahman</h1>
+  <h1>Hi 👋, I'm MD. Saifur Rahman</h1>
+  <h3>AI & Machine Learning Engineer | Full-Stack & Mobile Developer | CSE Undergrad</h3>
 
-  <!-- Animated Subtitle for Roles -->
+  <!-- Animated Subtitle for Focus Areas -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+%26+Mobile+App+Developer;Competitive+Programmer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Intelligent+AI+%26+Computer+Vision+Systems;Developing+Full-Stack+Web+%26+Flutter+Applications;Active+Problem+Solver+on+Codeforces+%26+Kaggle;Passionate+About+Deep+Learning+%26+Automation" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -36,10 +37,11 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
-- 💻 Experienced in building full-stack web and mobile apps using **Django, Flask, and Flutter**.
-- 🌐 Explore my work and projects on my **[Portfolio Website](https://saifur-rahman0.github.io/Saifur-Protfolio/)**.
-- 🏆 Active problem solver on **Codeforces** & data science competitor on **Kaggle**.
+- 🎓 Pursuing a B.Sc. in **Computer Science & Engineering (CSE)** at **Shyamoli Textile Engineering College** (Member of **Crypton2** & **Computer Programming Club**).
+- 💼 Working professionally at **Betopia Group** and building custom software solutions as a freelance developer.
+- 🧠 Specializing in **Deep Learning, Computer Vision (CNNs, OCR), AI Assistants, and Predictive Modeling**.
+- 💻 Experienced in full-stack and cross-platform development using **Python (Django, Flask), JavaScript, Flutter, and MongoDB/MySQL**.
+- 🌐 Explore my full resume, skills, and live demos on my **[Portfolio Website](https://saifur-rahman0.github.io/Saifur-Protfolio/)**.
 - 📫 Reach me at: **[saifur.rahman.khokon1@gmail.com](mailto:saifur.rahman.khokon1@gmail.com)**
 
 ---
@@ -51,38 +53,55 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI Stack" />
   <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-#### 🌐 Web & Mobile Development
+#### 🌐 Web, Mobile & Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,flutter,dart,androidstudio,kotlin,html,css,bootstrap&theme=dark" alt="Web and Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=django,flask,js,flutter,dart,androidstudio,kotlin,html,css,bootstrap,vercel&theme=dark" alt="Web and Mobile Stack" />
 </p>
 
 #### 💻 Core Languages, Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,mongodb,git,linux,postman,arduino,figma,ps&theme=dark" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,mongodb,git,github,linux,postman,arduino,figma,ps&theme=dark" alt="Languages and Tools" />
   <br/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+### 📂 Highlighted GitHub Projects
 
-| Project | Domain | Tech Stack |
+#### 🧠 Artificial Intelligence, Deep Learning & Computer Vision
+| Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Bangla Handwritten Alphabet Recognition](https://github.com/saifur-rahman0/Bangla_Handwritten_Alphabet_Recognition)** | Deep Learning / OCR | `Python` `Jupyter` `CNN` |
-| **[Real-Time Face Recognition Using CNN](https://github.com/saifur-rahman0/Real-Time-Face-Recognition-Using-CNN)** | Computer Vision | `Python` `OpenCV` `Deep Learning` |
-| **[House Value Prediction](https://github.com/saifur-rahman0/House-Value-Prediction-using-Machine-Learning)** | Machine Learning | `Python` `Scikit-Learn` `Pandas` |
-| **[Handwritten Digit Recognition (MNIST)](https://github.com/saifur-rahman0/Handwritten-Digit-Recognition-MNIST)** | Neural Networks | `Python` `TensorFlow` `Keras` |
-| **[Note-Taking Application](https://github.com/saifur-rahman0/Note-Taking-Application-Frontend)** | Full-Stack Web | `JavaScript` `Frontend` `Backend` |
-| **[University Management System](https://github.com/saifur-rahman0/University-Management-System)** | Software Engineering | `Java` `OOP` `Database` |
+| **[Complete Personal AI Assistant](https://github.com/saifur-rahman0/Complete_Personal_AI_Assistant)** | Intelligent personal AI assistant for task automation and interaction | `Python` `AI` `Automation` |
+| **[Bangla Handwritten Alphabet Recognition](https://github.com/saifur-rahman0/Bangla_Handwritten_Alphabet_Recognition)** | Deep learning OCR model for classifying handwritten Bangla characters | `Python` `Jupyter` `CNN` |
+| **[Real-Time Face Recognition Using CNN](https://github.com/saifur-rahman0/Real-Time-Face-Recognition-Using-CNN)** | Live facial detection and recognition pipeline powered by CNNs | `Python` `OpenCV` `CNN` |
+| **[Handwritten Digit Recognition (MNIST)](https://github.com/saifur-rahman0/Handwritten-Digit-Recognition-MNIST)** | Neural network classifier trained on the MNIST digit dataset | `Python` `TensorFlow` `Jupyter` |
+| **[House Value Prediction](https://github.com/saifur-rahman0/House-Value-Prediction-using-Machine-Learning)** | End-to-end regression model for predicting real estate prices | `Scikit-Learn` `Pandas` `NumPy` |
+| **[Image Information Extractor](https://github.com/saifur-rahman0/Image-Information-Extractor)** | Automated utility for extracting metadata and insights from images | `Python` `Image Processing` |
+
+#### 🌐 Full-Stack Web, Mobile & Departmental Applications
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Note-Taking App (Frontend)](https://github.com/saifur-rahman0/Note-Taking-Application-Frontend) & [(Backend)](https://github.com/saifur-rahman0/Note-Taking-Application-Backend)** | Full-stack cloud note management system with REST API & MongoDB Atlas | `JavaScript` `MongoDB` `REST API` |
+| **[Saifur Portfolio](https://github.com/saifur-rahman0/Saifur-Protfolio)** | Personal developer portfolio showcasing projects, skills, and experience | `HTML5` `CSS3` `JavaScript` |
+| **[ShEC-CSE Departmental App](https://github.com/saifur-rahman0)** | Collaborative application built for the Shyamoli Engineering College CSE Dept | `Flutter` `Dart` `Mobile` |
+| **[ETC Apparel LTD v2](https://github.com/tamvirul96/ETC_Apperial_LTD_v2)** | Collaborative enterprise web application and system development | `Full-Stack` `Web` |
+| **[OpenWeather App](https://github.com/saifur-rahman0/OpenWeather)** | Real-time weather forecasting app integrating third-party weather APIs | `API Integration` `Web/Mobile` |
+
+#### 🖥️ Core Software Engineering & Management Systems
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[University Management System](https://github.com/saifur-rahman0/University-Management-System)** | Comprehensive academic, faculty, and student administration system | `Java` `OOP` `MySQL` |
+| **[College Management System](https://github.com/saifur-rahman0/College-Management-System)** | Foundational institutional record and student management software | `C` `File I/O` `Algorithms` |
 
 ---
 
-### 📊 GitHub Overview & Activity
+### 📊 GitHub Analytics & Contributions
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=saifur-rahman0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Saifur's GitHub Stats" />
