@@ -1,16 +1,22 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Static Name Header (Always Visible) -->
+  <h1>Hi 👋, I'm Saifur Rahman</h1>
+
+  <!-- Animated Subtitle for Roles -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Saifur+Rahman;AI+%26+Machine+Learning+Engineer;Full-Stack+%26+Mobile+App+Developer;Competitive+Programmer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+%26+Mobile+App+Developer;Competitive+Programmer+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=saifur-rahman0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 
-  <!-- Social & Competitive Programming Links -->
+  <!-- Portfolio, Social & Competitive Programming Links -->
   <p align="center">
+    <a href="https://saifur-rahman0.github.io/Saifur-Protfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-Saifur_Rahman-2563EB?style=for-the-badge" alt="Portfolio" />
+    </a>
     <a href="https://linkedin.com/in/saifur-rahman-207617304" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -32,6 +38,7 @@
 ### 🚀 About Me
 - 🧠 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
 - 💻 Experienced in building full-stack web and mobile apps using **Django, Flask, and Flutter**.
+- 🌐 Explore my work and projects on my **[Portfolio Website](https://saifur-rahman0.github.io/Saifur-Protfolio/)**.
 - 🏆 Active problem solver on **Codeforces** & data science competitor on **Kaggle**.
 - 📫 Reach me at: **[saifur.rahman.khokon1@gmail.com](mailto:saifur.rahman.khokon1@gmail.com)**
 
@@ -56,6 +63,8 @@
 #### 💻 Core Languages, Databases & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,mongodb,git,linux,postman,arduino,figma,ps&theme=dark" alt="Languages and Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
 </p>
 
 ---
