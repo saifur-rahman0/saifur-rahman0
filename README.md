@@ -9,10 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Intelligent+AI+%26+Computer+Vision+Systems;Developing+Full-Stack+Web+%26+Flutter+Applications;Active+Problem+Solver+on+Codeforces+%26+Kaggle;Passionate+About+Deep+Learning+%26+Automation" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=saifur-rahman0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </p>
-
   <!-- Portfolio, Social & Competitive Programming Links -->
   <p align="center">
     <a href="https://saifur-rahman0.github.io/Saifur-Protfolio/" target="_blank">
